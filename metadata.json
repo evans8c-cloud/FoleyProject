@@ -1,0 +1,6 @@
+{
+  "name": "Foley Sound Lab",
+  "description": "Interactive Grade 12 film sound design and Foley layering studio with self-contained Google Sites export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
